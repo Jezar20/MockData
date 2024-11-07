@@ -40,18 +40,6 @@
     "googleAuthToken": "googleAuthToken5"
   },
   {
-    "userType": "Guest",
-    "title": "Guest User"
-  },
-  {
-    "userType": "Guest",
-    "title": "Guest User"
-  },
-  {
-    "userType": "Guest",
-    "title": "Guest User"
-  },
-  {
     "userId": 9,
     "userType": "User",
     "phoneNumber": "09259012345",
