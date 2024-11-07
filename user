@@ -1,0 +1,70 @@
+[
+  {
+    "userId": 1,
+    "userType": "User",
+    "phoneNumber": "09171234567",
+    "age": 22,
+    "token": "token1",
+    "googleAuthToken": "googleAuthToken1"
+  },
+  {
+    "userId": 2,
+    "userType": "User",
+    "phoneNumber": "09182345678",
+    "age": 25,
+    "token": "token2",
+    "googleAuthToken": "googleAuthToken2"
+  },
+  {
+    "userId": 3,
+    "userType": "User",
+    "phoneNumber": "09193456789",
+    "age": 30,
+    "token": "token3",
+    "googleAuthToken": "googleAuthToken3"
+  },
+  {
+    "userId": 4,
+    "userType": "User",
+    "phoneNumber": "09204567890",
+    "age": 28,
+    "token": "token4",
+    "googleAuthToken": "googleAuthToken4"
+  },
+  {
+    "userId": 5,
+    "userType": "User",
+    "phoneNumber": "09215678901",
+    "age": 21,
+    "token": "token5",
+    "googleAuthToken": "googleAuthToken5"
+  },
+  {
+    "userType": "Guest",
+    "title": "Guest User"
+  },
+  {
+    "userType": "Guest",
+    "title": "Guest User"
+  },
+  {
+    "userType": "Guest",
+    "title": "Guest User"
+  },
+  {
+    "userId": 9,
+    "userType": "User",
+    "phoneNumber": "09259012345",
+    "age": 27,
+    "token": "token9",
+    "googleAuthToken": "googleAuthToken9"
+  },
+  {
+    "userId": 10,
+    "userType": "User",
+    "phoneNumber": "09260123456",
+    "age": 24,
+    "token": "token10",
+    "googleAuthToken": "googleAuthToken10"
+  }
+]
