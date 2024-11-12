@@ -1,5 +1,13 @@
 [
   {
+    "userId": -1,
+    "userType": "Guest",
+    "phoneNumber": null,
+    "age": null,
+    "token": null,
+    "googleAuthToken": null
+  },
+  {
     "userId": 1,
     "userType": "User",
     "phoneNumber": "09171234567",
@@ -38,18 +46,6 @@
     "age": 21,
     "token": "token5",
     "googleAuthToken": "googleAuthToken5"
-  },
-  {
-    "userType": "Guest",
-    "title": "Guest User"
-  },
-  {
-    "userType": "Guest",
-    "title": "Guest User"
-  },
-  {
-    "userType": "Guest",
-    "title": "Guest User"
   },
   {
     "userId": 9,
